@@ -7,7 +7,8 @@ export default {
   theme: {
     colors: {
       lightGray: 'hsl(232, 24%, 12%)',
-      darkPurple: 'hsl(257, 38%, 11%)'
+      darkPurple: 'hsl(257, 38%, 11%)',
+      lightPurple: 'hsl(283, 89%, 66%)'
     },
     screens: {
       sm: '480px',
