@@ -20,7 +20,7 @@ const HomePresentation = () => {
                                 loop: true,
                             }}
                     />
-                </div>
+                    </div>
                 </div>
             
                     <div className="w-52 md:w-1/6">
