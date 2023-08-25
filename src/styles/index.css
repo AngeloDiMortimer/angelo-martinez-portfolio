@@ -8,3 +8,11 @@ body {
     width: 100%;
     font-family: 'Raleway', sans-serif;
 }
+
+.react-icons {
+    transition: ease-in .2s;
+}
+
+.react-icons:hover{
+    color: #c770f0;
+}

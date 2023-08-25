@@ -8,7 +8,7 @@ const HomeAbout = () => {
                     <h1>{"If I don't know it, "}<span className="text-lightPurple">I figure it out.</span> </h1>
                 </div>
                 <div className="flex flex-col-reverse md:flex-row items-center justify-center">
-                    <div className="flex flex-col text-center md:text-left text-lg md:text-xl gap-4 md:w-1/2">
+                    <div className="flex flex-col font-medium text-center md:text-left text-lg md:text-xl gap-4 md:w-1/2">
                         <p><span className="text-lightPurple">Committed to the idea of life-long learning</span>, 
                         I am passionate about web development and the endless possibilities it offers. 
                         I am always seeking new challenges and opportunities to grow and improve as a developer.</p>
@@ -17,7 +17,7 @@ const HomeAbout = () => {
 
                         </p>
                     </div>
-                    <div className="w-96">
+                    <div className="md:w-96">
                         <img src={Desk} />
                     </div>
                     
