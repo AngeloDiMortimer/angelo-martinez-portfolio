@@ -13,7 +13,7 @@ const HomeAbout = () => {
                         I am passionate about web development and the endless possibilities it offers. 
                         I am always seeking new challenges and opportunities to grow and improve as a developer.</p>
                         <p>Wheter working on a personal project or collaborating with a team, I am
-                            committed to delivering the best work I can produce that meets the needs of users and businesses.
+                            committed to delivering <span className="text-lightPurple">the best work I can produce</span> that meets the needs of users and businesses.
 
                         </p>
                     </div>

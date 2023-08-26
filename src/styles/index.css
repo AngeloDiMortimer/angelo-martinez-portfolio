@@ -16,3 +16,15 @@ body {
 .react-icons:hover{
     color: #c770f0;
 }
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(178,121,216,.959);
+    border-radius: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #2d1950;
+}
