@@ -2,9 +2,9 @@ import Desk from "../../assets/images/desk.svg"
 
 const HomeAbout = () => {
     return (
-        <div className="p-4 flex items-center justify-center mt-24">
-            <div className="flex flex-col items-center justify-center gap-4 md:gap-14">
-                <div className="flex flex-col text-4xl items-center md:items-start text-center gap-4 font-semibold">
+        <div className="p-4 flex items-center justify-center mt-16">
+            <div className="flex flex-col items-center justify-center gap-4 md:gap-8">
+                <div className="flex flex-col text-5xl items-center md:items-start text-center gap-4 font-semibold">
                     <h1>{"If I don't know it, "}<span className="text-lightPurple">I figure it out.</span> </h1>
                 </div>
                 <div className="flex flex-col-reverse md:flex-row items-center justify-center">
