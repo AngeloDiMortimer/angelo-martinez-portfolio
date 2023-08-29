@@ -1,8 +1,10 @@
+import WhoIAm from "../components/About/WhoIAm";
+
 const About = () => {
     return (
-        <>
-            <h1>About page</h1>
-        </>
+        <div className="min-h-screen">
+            <WhoIAm />
+        </div>
     )
 }
 
