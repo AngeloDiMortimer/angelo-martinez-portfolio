@@ -6,8 +6,7 @@ const ItemsTools = () => {
         <>
         {toolsData.map((item) => (
             <div key={item.id} className=" border p-5 border-lightPurple
-            flex flex-col items-center text-center md:w-36
-             cursor-pointer transition-all duration-500">
+            flex flex-col items-center text-center md:w-36">
                 <IconContext.Provider value={{className: 'mb-2' , size:75}}>
                     {item.component}
                 </IconContext.Provider>
