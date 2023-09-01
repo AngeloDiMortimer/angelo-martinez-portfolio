@@ -6,14 +6,14 @@ const ProjectItem = () => {
     return (
         <>
             {projectsData.map((item) => (
-                <div key={item.id} className=" border-2 p-5 gap-8 md:gap-12 rounded-md
+                <div key={item.id} className="border-2 p-5 gap-8 md:gap-12 rounded-md lg:w-9/12 xl:w-6/12
                 flex flex-col md:flex-row items-center text-center">
                     <div className="w-9/12">
                         <img src={item.image} alt="project-image" 
                             className='max-w-full h-auto border-none rounded-md'
                         />
                     </div>
-                    <div className="flex flex-col w-3/12 items-center justify-center text-center w-96">
+                    <div className="flex flex-col w-3/12 items-center justify-center text-center">
                         <h1 className="font-bold text-2xl mb-8">{item.name}</h1>
                         <p className="w-52 md:w-auto">{item.description}</p>
                         <div className="flex gap-2 mt-5">
