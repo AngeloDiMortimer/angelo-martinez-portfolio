@@ -4,7 +4,7 @@ export const projectsData = [
     {
         id: 1,
         name: "MINIMALIST E-COMMERCE",
-        description: "A simple and minimalistic store that priotizes user experience, making it easy for the users to find and purchase the products they need",
+        description: "A simple and minimalistic store that priotizes user experience, making it easy for the users to find and purchase the products they need.",
         tech: [
             "React",
             "Tailwind CSS"
