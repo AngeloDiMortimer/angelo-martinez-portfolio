@@ -22,7 +22,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: "WHEATER APP",
+        name: "WEATHER APP",
         description: "An app that tells the user the weather and other related information by using an API.",
         tech: [
             "Javascript",
