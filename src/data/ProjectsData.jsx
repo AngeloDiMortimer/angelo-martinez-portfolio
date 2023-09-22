@@ -94,7 +94,7 @@ export const projectsData = [
     },
     {
         id: 8,
-        name: "DASHBOARD FRONTPAGE",
+        name: "SIGN UP FORM",
         description: "A fake sign up page made with HTML and CSS",
         tech: [
             "HTML5",
