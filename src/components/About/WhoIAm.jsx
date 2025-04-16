@@ -1,4 +1,4 @@
-import Portrait from "../../assets/images/portrait.jpg";
+import Portrait from "../../assets/images/portrait.png";
 
 const WhoIAm = () => {
     return (

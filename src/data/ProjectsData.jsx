@@ -7,6 +7,7 @@ import calculator from "../assets/images/projects/calculator.png";
 import dashboard from "../assets/images/projects/dashboard.png";
 import signUp from "../assets/images/projects/sign-up-form.png";
 
+
 export const projectsData = [
     {
         id: 1,
