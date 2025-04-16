@@ -13,7 +13,7 @@ const FindMe = () => {
                         <a href="https://github.com/AngeloDiMortimer">
                             <FaGithub />
                         </a>
-                        <a href="https://www.linkedin.com/in/angelo-martinez-pessolano-1b0a84225/">
+                        <a href="https://www.linkedin.com/in/angelo-di-mortimer-martinez-pessolano-1b0a84225/">
                             <FaLinkedin />
                         </a>
                     </IconContext.Provider>
