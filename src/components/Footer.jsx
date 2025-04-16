@@ -12,7 +12,7 @@ const Footer = () => {
 
                 <div className="flex flex-col items-center md:items-end">
                             <div className="text-center text-lg text-white mt-6 items-start">
-                                Copyright &copy; 2023
+                                Copyright &copy; 2025
                             </div>                            
                 </div>  
             </div>
